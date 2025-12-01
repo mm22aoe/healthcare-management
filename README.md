@@ -11,5 +11,4 @@ This work is being done as a part of my Computer Software Architecture course, a
 * Java Swing GUI — user-friendly interface for loading and managing records
 * File-Based Storage — loads patients, clinicians, appointments, and prescriptions from text files
 * Referral Creation & Processing — supports generating referral details and saving them to files
-* Email Simulation — generates text-based “email” output (no real emails sent)
 * Prescription Handling — allows inserting new prescription records
