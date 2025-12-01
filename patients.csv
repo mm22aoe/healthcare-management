@@ -1,0 +1,12 @@
+patient_id,first_name,last_name,date_of_birth,nhs_number,gender,phone_number,email,address,postcode,emergency_contact_name,emergency_contact_phone,registration_date,gp_surgery_id
+P001,John,Smith,1985-03-15,1234567890,,07123456789,,"123 Oak Street,Birmingham",,,,2020-01-15
+P002,Emma,Johnson,1990-07-22,2345678901,,07234567890,,"456 Pine Avenue,Birmingham",,,,2019-05-10
+P003,Robert,Williams,1975-11-08,3456789012,,07345678901,,"789 Maple Road,Solihull",,,,2021-03-22
+P004,Sarah,Brown,1988-09-14,4567890123,,07456789012,,"321 Elm Close,Birmingham",,,,2020-08-05
+P005,Michael,Davis,1982-12-03,5678901234,,07567890123,,"654 Birch Lane,Sutton Coldfield",,,,2019-11-18
+P006,Linda,Miller,1978-04-27,6789012345,,07678901234,,"987 Cedar Grove,Birmingham",,,,2020-12-01
+P007,James,Wilson,1992-01-19,7890123456,,07789012345,,"147 Willow Way,Birmingham",,,,2021-02-14
+P008,Patricia,Moore,1983-06-11,8901234567,,07890123456,,"258 Ash Court,Erdington",,,,2020-04-30
+P009,Christopher,Taylor,1979-10-05,9012345678,,07901234567,,"369 Holly Drive,Birmingham",,,,2019-09-12
+P010,Elizabeth,Anderson,1987-08-30,0123456789,,07012345678,,"741 Poplar Street,Kings Heath",,,,2021-01-08
+P0011,Test,Andy,2025-03-12,577,,03021312132,,Sleeping Road,,,,,2020-01-12
