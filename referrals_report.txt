@@ -1,0 +1,90 @@
+REFERRALS REPORT
+================
+Referral ID     : R001
+Patient ID      : P005
+From Clinician  : C001
+To Specialty    : C005
+Urgency         : Routine
+Status          : Completed
+Summary         : Heart murmur investigation | "35-year-old male with Grade 2/6 systolic murmur detected during routine examination. No symptoms of chest pain or breathlessness." | "Patient seen |  | |  |
+--------------------------------------------------
+Referral ID     : R002
+Patient ID      : P001
+From Clinician  : C001
+To Specialty    : C006
+Urgency         : Urgent
+Status          : Pending
+Summary         : Persistent headaches | "40-year-old male with 3-month history of severe morning headaches. No focal neurological signs but concerned about intracranial pressure." | Awaiting MRI results |  | |  |
+--------------------------------------------------
+Referral ID     : R003
+Patient ID      : P003
+From Clinician  : C003
+To Specialty    : C012
+Urgency         : Routine
+Status          : Pending
+Summary         : Chronic abdominal pain | "48-year-old male with 6-month history of epigastric pain and weight loss. Normal blood tests but symptoms persisting." | Patient anxious about procedure |  | |  |
+--------------------------------------------------
+Referral ID     : R004
+Patient ID      : P009
+From Clinician  : C004
+To Specialty    : C007
+Urgency         : Routine
+Status          : In Progress
+Summary         : Chronic knee pain | "44-year-old male with 2-year history of right knee pain affecting mobility. X-ray shows mild degenerative changes." | Physiotherapy commenced |  | |  |
+--------------------------------------------------
+Referral ID     : R005
+Patient ID      : P007
+From Clinician  : C002
+To Specialty    : C008
+Urgency         : Non-urgent
+Status          : Pending
+Summary         : Suspicious skin lesion | "33-year-old male with changing mole on back. No family history of melanoma but lesion has irregular borders." | Routine 2-week wait referral |  | |  |
+--------------------------------------------------
+Referral ID     : R006
+Patient ID      : P004
+From Clinician  : C002
+To Specialty    : C005
+Urgency         : Urgent
+Status          : New
+Summary         : Chest pain episodes | "37-year-old female with recent onset chest pain and family history of cardiac disease. ECG shows minor T-wave changes." | Fast-track cardiology referral |  | |  |
+--------------------------------------------------
+Referral ID     : R007
+Patient ID      : P008
+From Clinician  : C010
+To Specialty    : C008
+Urgency         : Routine
+Status          : New
+Summary         : Chronic eczema | "42-year-old female with severe atopic eczema not responding to standard treatments. Affects quality of life significantly." | Considering immunosuppressive therapy |  | |  |
+--------------------------------------------------
+Referral ID     : R008
+Patient ID      : P002
+From Clinician  : C009
+To Specialty    : C011
+Urgency         : Non-urgent
+Status          : Completed
+Summary         : Post-vaccination care | "35-year-old female requiring follow-up after adverse reaction to vaccination. Mild allergic response managed successfully." | Standard protocol followed |  | |  |
+--------------------------------------------------
+Referral ID     : R009
+Patient ID      : P010
+From Clinician  : C002
+To Specialty    : C005
+Urgency         : Routine
+Status          : Pending
+Summary         : Diabetes complications screening | "38-year-old female with Type 2 diabetes requiring annual cardiovascular risk assessment. HbA1c slightly elevated." | Annual diabetes review referral |  | |  |
+--------------------------------------------------
+Referral ID     : R010
+Patient ID      : P006
+From Clinician  : C004
+To Specialty    : C006
+Urgency         : Urgent
+Status          : Pending
+Summary         : Memory problems | "47-year-old female reporting significant memory issues and confusion. Family concerned about early onset dementia." | Early intervention referral requested |  | |  |
+--------------------------------------------------
+Referral ID     : R011
+Patient ID      : P003
+From Clinician  : C001
+To Specialty    : C003
+Urgency         : Routine
+Status          : 
+Summary         : Dont work | just chill |  |
+--------------------------------------------------

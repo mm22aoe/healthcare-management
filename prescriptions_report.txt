@@ -1,0 +1,27 @@
+Prescription ID: RX008
+Patient ID      : P001
+Clinician ID    : C001
+Appointment ID  : 
+Medication      : Ibuprofen
+Dosage          : 400mg
+Pharmacy        : Boots Pharmacy Birmingham
+Instructions    : Take with food
+--------------------------------------------------
+Prescription ID: RX009
+Patient ID      : P003
+Clinician ID    : C003
+Appointment ID  : 
+Medication      : Amlodipine
+Dosage          : 5mg
+Pharmacy        : Lloyds Pharmacy Solihull
+Instructions    : Take in morning
+--------------------------------------------------
+Prescription ID: RX007
+Patient ID      : P004
+Clinician ID    : C001
+Appointment ID  : 
+Medication      : Sleeping
+Dosage          : 0mg
+Pharmacy        : Closed
+Instructions    : Expired
+--------------------------------------------------

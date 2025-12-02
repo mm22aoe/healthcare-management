@@ -3,6 +3,7 @@
 A simple referral management system built using plain Java, following the MVC architecture and implementing the Singleton pattern for referral processing. 
 The application uses Java Swing for its GUI and reads/writes data from text files (no databases or external libraries). 
 This work is being done as a part of my Computer Software Architecture course, and should not be copied without permission.
+IDE: VS Code
 
 **Features**
 
